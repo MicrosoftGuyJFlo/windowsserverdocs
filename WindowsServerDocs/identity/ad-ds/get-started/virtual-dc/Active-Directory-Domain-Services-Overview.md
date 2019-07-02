@@ -42,11 +42,8 @@ Active Directory also includes:
  
 * [Active Directory Structure and Storage Technologies](https://technet.microsoft.com/library/cc759186(v=ws.10).aspx)
 * [Domains Controller Roles](https://technet.microsoft.com/library/cc786438(v=ws.10).aspx) 
-* Active Directory Schema 
 * [Understanding Trusts](https://technet.microsoft.com/library/cc771294(v=ws.10).aspx) 
-* [Active Directory Replication Technologies](https://technet.microsoft.com/library/cc786438(v=ws.10).aspx) 
 * [Active Directory Search and Publication Technologies](https://technet.microsoft.com/library/cc775686(v=ws.10).aspx) 
-* Interoperating with DNS and Group Policy 
 * [Understanding Schema](https://technet.microsoft.com/library/cc759402(v=ws.10).aspx) 
 
 For a detailed list of Active Directory concepts, see [Understanding Active Directory](https://technet.microsoft.com/library/cc781408(v=ws.10).aspx). 
